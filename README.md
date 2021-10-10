@@ -1,4 +1,4 @@
-### Hi there, I'm BlazingVx 👋
+### Hi there, I'm BlazingVx <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) ![GitHub Repo stars](https://img.shields.io/github/stars/blazingvx/Looks) ![GitHub forks](https://img.shields.io/github/forks/blazingvx/Looks) ![GitHub issues](https://img.shields.io/github/issues/blazingvx/Looks) ![GitHub pull requests](https://img.shields.io/github/issues-pr/blazingvx/Looks)
 
