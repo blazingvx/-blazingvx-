@@ -55,6 +55,7 @@
 ![Snake animation](https://github.com/blazingvx/blazingvx/blob/output/github-contribution-grid-snake.svg)
  
 </h3>
-[BlzingvxGitHub]: https://github.com/blazingvx
+
+<!--[BlzingvxGitHub]: https://github.com/blazingvx -->
 
 
