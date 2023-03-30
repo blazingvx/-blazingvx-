@@ -12,6 +12,10 @@
 - ⚡ Fun fact: I love to draw and play casio
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+## Check Out!!
+- [About Me](https://blazingvx.github.io/resume/)
+- [My Blog](https://blazingvx.github.io/Blog/)
+
 ### Languages and Tools:
 <!-- Use when links are created
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][BlzingvxGitHub]
