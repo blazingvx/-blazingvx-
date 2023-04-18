@@ -47,7 +47,11 @@
 
   <img width="48%" alt="blazingvx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blazingvx&theme=radical&show_icons=true&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blazingvx&theme=radical&show_icons=true&hide_border=true" />
-  
+  <img width="48%" src="https://github-readme-activity-graph.cyclic.app/graph?username=blazingvx&theme=xcode"/>
+ <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazingvx&theme=dracula"/>
+ <br>
+ <img width="96%" src="https://github-profile-trophy.vercel.app/?username=blazingvx"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazingvx&theme=dark"/>
 </details>
 
 <br>
@@ -61,5 +65,5 @@
 </h3>
 
 <!--[BlzingvxGitHub]: https://github.com/blazingvx -->
-
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
