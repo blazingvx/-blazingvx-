@@ -14,6 +14,7 @@
 
 ## Check Out!!
 - [About Me](https://blazingvx.github.io/resume/)
+- [About Me 2.0](https://blazingvx.github.io/resume-app/)
 - [My Blog](https://blazingvx.github.io/Blog/)
 
 ### Languages and Tools:
