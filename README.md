@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play casio
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play Casio
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ## Check Out!!
 - [About Me](https://blazingvx.github.io/resume/)
