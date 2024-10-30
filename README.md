@@ -83,4 +83,3 @@ Welcome to my GitHub profile! I am a passionate developer with a focus on buildi
 <h2 align="center">Visitor Count <img align="center" src="https://profile-counter.glitch.me/blazingvx/count.svg" alt="Visitor Count" /></h2>
 
 ![Snake animation](https://github.com/blazingvx/blazingvx/blob/output/github-contribution-grid-snake.svg)
-![image](https://github.com/user-attachments/assets/9aa237bc-96eb-47ee-b817-ef92ce87843c)
