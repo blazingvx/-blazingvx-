@@ -70,12 +70,12 @@ Welcome to my GitHub profile! I am a passionate developer with a focus on buildi
 <details>
   <summary><strong>GitHub Stats</strong></summary>
   
-  <img width="48%" alt="blazingvx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blazingvx&theme=radical&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blazingvx&theme=radical&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.cyclic.app/graph?username=blazingvx&theme=xcode"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazingvx&theme=dracula"/>
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=blazingvx"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazingvx&theme=dark"/>
+  <img width="96%" alt="blazingvx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blazingvx&theme=radical&show_icons=true&hide_border=true" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=blazingvx&theme=radical&show_icons=true&hide_border=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=blazingvx&theme=github-compact"/>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazingvx&theme=dracula"/>
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=blazingvx&theme=onedark&row=1"/>
+  <p align = "center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazingvx&theme=dark"/></p>
 </details>
 
 ---
